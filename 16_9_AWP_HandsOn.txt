@@ -7,4 +7,4 @@ Today Handson
 5.Define functional requirements of ECommerce Application by exploring ECommerce Application.
 6.Write down your own approach about building these website using Web Technologies in your own language. ( Analytical view for Web Technologies)
 7.Submit your text document.
-
+abc
