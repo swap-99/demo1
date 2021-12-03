@@ -1,0 +1,10 @@
+Today Handson
+
+1.Install Visual studio Code (Open source editor) on your machine.
+2.Access amazon.in ECommerce Website using chrome browser.
+3.List down End User interaction while purchasing product from online amazon.in web site.
+4.List down Onlineshopping Web Site feature provided for endusers to purchase products.
+5.Define functional requirements of ECommerce Application by exploring ECommerce Application.
+6.Write down your own approach about building these website using Web Technologies in your own language. ( Analytical view for Web Technologies)
+7.Submit your text document.
+
